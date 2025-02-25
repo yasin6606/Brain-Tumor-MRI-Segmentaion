@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 brain_mri_dataset
+kaggle_3m
+*.pt
